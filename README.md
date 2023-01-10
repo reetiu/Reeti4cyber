@@ -43,7 +43,7 @@ Have overall of 15 years as full time IT professional and almost 4+ yrs as freel
 - [Setup Windows+vscode+terraform+AWS+plugins](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Basic Operation](https://www.linkedin.com/feed/update/urn:li:activity:7017215954707234817?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017215954707234817%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Files](https://www.linkedin.com/feed/update/urn:li:activity:7018287174433325056?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018287174433325056%29)
-- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 in Ubuntu EC2] (https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
+- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 in Ubuntu EC2](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Usecase: Mitigate to Changes outside](https://www.linkedin.com/feed/update/urn:li:activity:7011028283605577728?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7011028283605577728%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 History & Basic Commands](https://www.linkedin.com/feed/update/urn:li:activity:7013549457661210625?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7013549457661210625%29)
 
@@ -68,6 +68,6 @@ Have overall of 15 years as full time IT professional and almost 4+ yrs as freel
 
 # SQL
 
-#Oracle
+# Oracle
 
 # AGILE SCRUM

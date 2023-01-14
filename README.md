@@ -3,9 +3,9 @@ I am **[Srinivasan Baskaran](https://www.linkedin.com/in/srinivasanbaskaran/)** 
 Hailed from a middle class family and born in Kangayam (Tirupur District in Tamilnadu) and survived in Tamilnadu, Karnataka and Maharashtra. I am younger in my family with 2 elder brothers.
 My nuclear family is in Chennai and my parents in Coimbatore.
 
-From the education perspective I am Bachelor of Science in Physics with specialisation in Electronics, and Master of Computer Applications from Bharathiar University.
+From the education perspective I am graduated in 𝑩𝒂𝒄𝒉𝒆𝒍𝒐𝒓 𝒐𝒇 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝑷𝒉𝒚𝒔𝒊𝒄𝒔 𝒘𝒊𝒕𝒉 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑬𝒍𝒆𝒄𝒕𝒓𝒐𝒏𝒊𝒄𝒔, and 𝑴𝒂𝒔𝒕𝒆𝒓 𝒐𝒇 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 from Bharathiar University.
 
-Have overall of 15 years as full time IT professional and almost 4+ yrs as freelancing in IT industry and my skill set is mostly around Microsoft stack and other niche skills.
+Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎𝒆 𝑰𝑻 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒂𝒏𝒅 𝒂𝒍𝒎𝒐𝒔𝒕 4+ 𝒚𝒓𝒔 𝒂𝒔 𝒇𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈 𝒊𝒏 𝑰𝑻 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 and my skill set is mostly around Microsoft stack and other niche skills.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/srinivasanbaskaran/)** 
 
@@ -52,10 +52,10 @@ Mail - cheenu_vasan@yahoo.com
 # Terraform
 - [Why 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 ?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Vs Ansible](https://www.linkedin.com/feed/update/urn:li:activity:7015528930728189952?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015528930728189952%29)
-- [Setup Windows + vscode + 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 + AWS + plugins](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
+- [Setup: Windows + vscode + 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 + AWS + plugins](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Basic Operation](https://www.linkedin.com/feed/update/urn:li:activity:7017215954707234817?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017215954707234817%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Files](https://www.linkedin.com/feed/update/urn:li:activity:7018287174433325056?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018287174433325056%29)
-- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 in Ubuntu EC2](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
+- [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 installation in Ubuntu EC2](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Usecase: Mitigate to Changes outside](https://www.linkedin.com/feed/update/urn:li:activity:7011028283605577728?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7011028283605577728%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 History & Basic Commands](https://www.linkedin.com/feed/update/urn:li:activity:7013549457661210625?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7013549457661210625%29)
 - [Standalone Azure VM set creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_basic-azurevm-resource-set-via-terraform-activity-7019373818070650880-_-bR?utm_source=share&utm_medium=member_desktop)

@@ -39,27 +39,28 @@ Mail - cheenu_vasan@yahoo.com
 
 # AWS
 
-- [AWS EC2 via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
+- [AWS EC2 creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
 - [AWS S3 bucket creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
 - [AWS S3 bucket creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
 
 # Azure
-- [Standalone VM via Azure Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
+- [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
 - [Azure tenants with new users enabled for MFA](https://www.linkedin.com/feed/update/urn:li:activity:7018263115087691776?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018263115087691776%29)
 - [Simple VNET peering via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7016750382060097536?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016750382060097536%29)
 
+
 # Terraform
-- [Why Terraform ?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
+- [Why 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 ?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Vs Ansible](https://www.linkedin.com/feed/update/urn:li:activity:7015528930728189952?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015528930728189952%29)
-- [Setup Windows+vscode+terraform+AWS+plugins](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
+- [Setup Windows + vscode + 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 + AWS + plugins](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Basic Operation](https://www.linkedin.com/feed/update/urn:li:activity:7017215954707234817?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017215954707234817%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Files](https://www.linkedin.com/feed/update/urn:li:activity:7018287174433325056?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018287174433325056%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 in Ubuntu EC2](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Usecase: Mitigate to Changes outside](https://www.linkedin.com/feed/update/urn:li:activity:7011028283605577728?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7011028283605577728%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 History & Basic Commands](https://www.linkedin.com/feed/update/urn:li:activity:7013549457661210625?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7013549457661210625%29)
-
-- [AWS EC2 via Terraform](https://www.linkedin.com/posts/srinivasanbaskaran_terraform-screen-reference-activity-7014997882139271168-et4F?utm_source=share&utm_medium=member_desktop)
-- [AWS S3 bucket creation via Terraform](https://www.linkedin.com/feed/update/urn:li:activity:7018631091527852034?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018631091527852034%29)
+- [Standalone Azure VM set creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_basic-azurevm-resource-set-via-terraform-activity-7019373818070650880-_-bR?utm_source=share&utm_medium=member_desktop)
+- [AWS EC2 via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_terraform-screen-reference-activity-7014997882139271168-et4F?utm_source=share&utm_medium=member_desktop)
+- [AWS S3 bucket creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/feed/update/urn:li:activity:7018631091527852034?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018631091527852034%29)
 
 # GIT / GIT HUB
 - [GIT & GIT HUB](https://www.linkedin.com/feed/update/urn:li:activity:7015016583529992192?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015016583529992192%29)
@@ -74,6 +75,12 @@ Mail - cheenu_vasan@yahoo.com
 # Ansible
 
 # Jenkins
+
+# Kubernetes
+
+# Cybersecurity (New Domain)
+- [Methods to threaten cyber-security](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7019720018615513088-_t7N?utm_source=share&utm_medium=member_desktop)
+- [Types of Malwares](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7019960877659422720-bKBF?utm_source=share&utm_medium=member_desktop)
 
 # .NET
 

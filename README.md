@@ -7,6 +7,8 @@ From the education perspective I am graduated in 𝑩𝒂𝒄𝒉𝒆𝒍𝒐�
 
 Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎𝒆 𝑰𝑻 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒂𝒏𝒅 𝒂𝒍𝒎𝒐𝒔𝒕 4+ 𝒚𝒓𝒔 𝒂𝒔 𝒇𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈 𝒊𝒏 𝑰𝑻 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 and my skill set is mostly around Microsoft stack and other niche skills.
 
+Looking for always new opportunity in IT industry until my dream job is reached either as a Senior Consultant, Senior Architect by role in Cloud and DevOps skill sets.
+
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/srinivasanbaskaran/)** 
 
 ## Connect with me  
@@ -46,6 +48,7 @@ Mail - cheenu_vasan@yahoo.com
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
 - [Azure tenants with new users enabled for MFA](https://www.linkedin.com/feed/update/urn:li:activity:7018263115087691776?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018263115087691776%29)
 - [Simple VNET peering via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7016750382060097536?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7016750382060097536%29)
+- [Azure Resources Basic Details](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7020746869802762240-jRWV?utm_source=share&utm_medium=member_desktop)
 
 # Terraform
 - [Why 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 ?](https://www.linkedin.com/feed/update/urn:li:activity:7012847763826647040?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012847763826647040%29)
@@ -66,6 +69,7 @@ Mail - cheenu_vasan@yahoo.com
 
 # DevOps
 - [Overview of DevOps](https://www.linkedin.com/feed/update/urn:li:activity:7014257420277350400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7014257420277350400%29)
+
 # Linux Distribution
 
 # Docker
@@ -80,6 +84,7 @@ Mail - cheenu_vasan@yahoo.com
 - [Understanding Cybersecurity concepts](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-cyber-security-activity-7018989534071721984-9p4q?utm_source=share&utm_medium=member_desktop)
 - [Methods to threaten cyber-security](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7019720018615513088-_t7N?utm_source=share&utm_medium=member_desktop)
 - [Types of Malwares](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7019960877659422720-bKBF?utm_source=share&utm_medium=member_desktop)
+- [𝐂𝐲𝐛𝐞𝐫 𝐬𝐚𝐟𝐞𝐭𝐲 𝐭𝐢𝐩𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7020431476898889729-o-Uj?utm_source=share&utm_medium=member_desktop)
 
 # .NET
 

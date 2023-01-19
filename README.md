@@ -63,6 +63,8 @@ Mail - cheenu_vasan@yahoo.com
 - [Standalone Azure VM set creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_basic-azurevm-resource-set-via-terraform-activity-7019373818070650880-_-bR?utm_source=share&utm_medium=member_desktop)
 - [AWS EC2 via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_terraform-screen-reference-activity-7014997882139271168-et4F?utm_source=share&utm_medium=member_desktop)
 - [AWS S3 bucket creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/feed/update/urn:li:activity:7018631091527852034?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018631091527852034%29)
+- [Features in 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 scripting - Variables, Data Source, cidrsubnet function](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021848267336400896-WgOx/?utm_source=share&utm_medium=member_desktop)
+- [cidrsubnet function](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021867464418332674-OWkT?utm_source=share&utm_medium=member_desktop)
 
 # GIT / GIT HUB
 - [GIT & GIT HUB](https://www.linkedin.com/feed/update/urn:li:activity:7015016583529992192?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015016583529992192%29)
@@ -81,11 +83,13 @@ Mail - cheenu_vasan@yahoo.com
 
 # Kubernetes
 
-# Cybersecurity (New Domain)
+# Cybersecurity (My New Domain)
 - [Understanding Cybersecurity concepts](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-cyber-security-activity-7018989534071721984-9p4q?utm_source=share&utm_medium=member_desktop)
 - [Methods to threaten cyber-security](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7019720018615513088-_t7N?utm_source=share&utm_medium=member_desktop)
 - [Types of Malwares](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7019960877659422720-bKBF?utm_source=share&utm_medium=member_desktop)
 - [𝐂𝐲𝐛𝐞𝐫 𝐬𝐚𝐟𝐞𝐭𝐲 𝐭𝐢𝐩𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7020431476898889729-o-Uj?utm_source=share&utm_medium=member_desktop)
+- [Fundamental History](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7021552452256632832-UGp3/?utm_source=share&utm_medium=member_desktop)
+- [Roles, Assessment, Threads type](https://www.linkedin.com/posts/srinivasanbaskaran_cybersecurity-roles-assessment-security-activity-7021725373130313728-Zpb5?utm_source=share&utm_medium=member_desktop)
 
 # .NET
 

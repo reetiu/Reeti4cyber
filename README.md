@@ -36,6 +36,10 @@ Mail - cheenu_vasan@yahoo.com
 
 ## 🤝🏻 Let's Keep in Touch
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bsrinivasancbe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
 
 # My Linkedin Journey
 

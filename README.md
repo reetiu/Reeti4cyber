@@ -57,7 +57,7 @@ Mail - cheenu_vasan@yahoo.com
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Basic Operation](https://www.linkedin.com/feed/update/urn:li:activity:7017215954707234817?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017215954707234817%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Files](https://www.linkedin.com/feed/update/urn:li:activity:7018287174433325056?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018287174433325056%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 History & Basic Commands](https://www.linkedin.com/feed/update/urn:li:activity:7013549457661210625?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7013549457661210625%29)
-- [Setup: Windows + vscode + 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 + AWS + plugins](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
+- [Setup: Windows + vscode + 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 + AWS + plugins](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-terraform-windows-activity-7013195493467983872-5Cf9?utm_source=share&utm_medium=member_desktop)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 installation in Ubuntu EC2](https://www.linkedin.com/feed/update/urn:li:activity:7017158630667923457?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7017158630667923457%29)
 - [𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 Usecase: Mitigate to Changes outside](https://www.linkedin.com/feed/update/urn:li:activity:7011028283605577728?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7011028283605577728%29)
 - [Standalone Azure VM set creation via 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦](https://www.linkedin.com/posts/srinivasanbaskaran_basic-azurevm-resource-set-via-terraform-activity-7019373818070650880-_-bR?utm_source=share&utm_medium=member_desktop)
@@ -98,3 +98,6 @@ Mail - cheenu_vasan@yahoo.com
 # Oracle
 
 # AGILE SCRUM
+
+# Others
+- [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)

@@ -36,6 +36,21 @@ Mail - cheenu_vasan@yahoo.com
 
 ## 🤝🏻 Let's Keep in Touch
 
+## 🐦 Latest Tweets
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/cheenu_vasan?ref_src=twsrc%5Etfw")
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cheenu_vasan&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
+
+## join our Discord Channel
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
+
+<br/>  
+
+
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bsrinivasancbe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 

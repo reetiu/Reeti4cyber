@@ -108,7 +108,7 @@ Mail - cheenu_vasan@yahoo.com
 
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/cheenu_vasan?ref_src=twsrc%5Etfw")
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cheenu_vasan&layout=wide)](https://github.com/bsrinivasancbe)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cheenu_vasan&layout=wide)](https://github.com/bsrinivasancbe/bsrinivasancbe)
 
 
 ## join our Discord Channel

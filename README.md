@@ -34,7 +34,6 @@ Looking for always new opportunity in IT industry until my dream job is reached 
 
 Mail - cheenu_vasan@yahoo.com
 
-
 # My Linkedin Journey
 
 # AWS
@@ -76,6 +75,7 @@ Mail - cheenu_vasan@yahoo.com
 # Docker
 
 # Ansible
+- [Fundamental History in Ansible](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7024014894454763520-FRU_?utm_source=share&utm_medium=member_desktop)
 
 # Jenkins
 
@@ -100,6 +100,10 @@ Mail - cheenu_vasan@yahoo.com
 # Others
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
 
+
+# My medium.com blogs Journey
+- [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
+- [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
 
 ## 🤝🏻 Let's Keep in Touch
 

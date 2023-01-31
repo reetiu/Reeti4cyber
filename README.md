@@ -76,6 +76,7 @@ Mail - cheenu_vasan@yahoo.com
 
 # Ansible
 - [Fundamental History in Ansible](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7024014894454763520-FRU_?utm_source=share&utm_medium=member_desktop)
+- [Basics of YAML](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7026233792755339266-rWgz?utm_source=share&utm_medium=member_desktop)
 
 # Jenkins
 
@@ -107,6 +108,7 @@ Mail - cheenu_vasan@yahoo.com
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
 - [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
 - [Azure Services by Category](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
+- [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
 
 ## 🤝🏻 Let's Keep in Touch
 

@@ -1,15 +1,12 @@
-I am **[Srinivasan Baskaran](https://www.linkedin.com/in/srinivasanbaskaran/)** ; my preferred call name is **Srini**. 
+I am **[Reeti Upmon](https://www.linkedin.com/in/reetiu/)** ; my preferred call name is **Reeti**. 
 
-Hailed from a middle class family and born in Kangayam (Tirupur District in Tamilnadu) and survived in Tamilnadu, Karnataka and Maharashtra. I am younger in my family with 2 elder brothers.
-My nuclear family is in Chennai and my parents in Coimbatore.
-
-From the education perspective I am graduated in 𝑩𝒂𝒄𝒉𝒆𝒍𝒐𝒓 𝒐𝒇 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝑷𝒉𝒚𝒔𝒊𝒄𝒔 𝒘𝒊𝒕𝒉 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑬𝒍𝒆𝒄𝒕𝒓𝒐𝒏𝒊𝒄𝒔, and 𝑴𝒂𝒔𝒕𝒆𝒓 𝒐𝒇 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔 from Bharathiar University.
+From the education perspective I am graduated in 𝑩𝒂𝒄𝒉𝒆𝒍𝒐𝒓 𝒐𝒇 Engineering 𝒊𝒏 Computer Science.
 
 Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎𝒆 𝑰𝑻 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒂𝒏𝒅 𝒂𝒍𝒎𝒐𝒔𝒕 4+ 𝒚𝒓𝒔 𝒂𝒔 𝒇𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈 𝒊𝒏 𝑰𝑻 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 and my skill set is mostly around Microsoft stack and other niche skills.
 
 Looking for always new opportunity in IT industry until my dream job is reached either as a 𝐒𝐞𝐧𝐢𝐨𝐫 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭, 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 development skill sets.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/srinivasanbaskaran/)** 
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/reetiu/)** 
 
 ## Connect with me  
 <a href="https://github.com/bsrinivasanCbe/myclouddevopsjourney" target="_blank">
@@ -103,6 +100,9 @@ Mail - cheenu_vasan@yahoo.com
 - [Cloud Services - AWS, Azure, GCP](https://www.linkedin.com/posts/srinivasanbaskaran_cloud-services-list-aws-azure-gcp-activity-7022149955150626816-GPK1?utm_source=share&utm_medium=member_desktop)
 - [CDN (AWS / Azure)](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025116915316514816-BXON?utm_source=share&utm_medium=member_desktop)
 
+# Motivation
+
+- [Success Journey](https://www.linkedin.com/feed/update/urn:li:activity:7026082415521533952)
 
 # My medium.com blogs Journey
 - [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)

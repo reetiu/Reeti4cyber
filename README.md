@@ -1,43 +1,19 @@
-I am **[Reeti Upmon](https://www.linkedin.com/in/reetiu/)** ; my preferred call name is **Reeti**. 
+I am **[Reeti Upmon](https://www.linkedin.com/in/reetiu/)**. 
 
-From the education perspective I am graduated in 𝑩𝒂𝒄𝒉𝒆𝒍𝒐𝒓 𝒐𝒇 Engineering 𝒊𝒏 Computer Science.
+I am an engineering graduate with over 15 years of collective work experience in the IT sector,  IT Training and Customer service. 
 
-Have overall of 15 𝒚𝒆𝒂𝒓𝒔 𝒂𝒔 𝒇𝒖𝒍𝒍 𝒕𝒊𝒎𝒆 𝑰𝑻 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒂𝒏𝒅 𝒂𝒍𝒎𝒐𝒔𝒕 4+ 𝒚𝒓𝒔 𝒂𝒔 𝒇𝒓𝒆𝒆𝒍𝒂𝒏𝒄𝒊𝒏𝒈 𝒊𝒏 𝑰𝑻 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 and my skill set is mostly around Microsoft stack and other niche skills.
 
-Looking for always new opportunity in IT industry until my dream job is reached either as a 𝐒𝐞𝐧𝐢𝐨𝐫 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭, 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐢𝐧 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 development skill sets.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/reetiu/)** 
 
-## Connect with me  
-<a href="https://github.com/bsrinivasanCbe/myclouddevopsjourney" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/srinivasanbaskaran/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/srinivasanbaskaran" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bsrinivasancbe" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCEAZ-oFL1sXVBaJ_bCwT7aw" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a> 
-<a href="https://twitter.com/bsrinivasancbe" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 
 
-Mail - cheenu_vasan@yahoo.com
+Mail - reeti4cyber@gmail.com
 
 # My Linkedin Journey
 
 # AWS
-- [AWS EC2 creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
-- [AWS S3 bucket creation via AMC portal](https://www.linkedin.com/feed/update/urn:li:activity:7018507963287945216?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7018507963287945216%29)
-- [AWS Resources, Group, Ways to create](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021137560521383938-bV64?utm_source=share&utm_medium=member_desktop)
-- [Basic details of AWS resource](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7021136795547418624-L-dx?utm_source=share&utm_medium=member_desktop)
+
 
 # Azure
 - [Standalone Azure VM via Portal](https://www.linkedin.com/feed/update/urn:li:activity:7015958555723776000?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015958555723776000%29)
@@ -65,29 +41,19 @@ Mail - cheenu_vasan@yahoo.com
 - [GIT Cheet Sheet](https://www.linkedin.com/feed/update/urn:li:activity:7015363908353888257?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7015363908353888257%29)
 
 # DevOps
-- [Overview of DevOps](https://www.linkedin.com/feed/update/urn:li:activity:7014257420277350400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7014257420277350400%29)
 
 # Linux Distribution
 
 # Docker
 
 # Ansible
-- [Fundamental History in Ansible](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7024014894454763520-FRU_?utm_source=share&utm_medium=member_desktop)
-- [Basics of YAML](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7026233792755339266-rWgz?utm_source=share&utm_medium=member_desktop)
 
 # Jenkins
 
 # Kubernetes
-- [What it is, History & avaialble modes](https://www.linkedin.com/posts/srinivasanbaskaran_coffeebreakwithclouddevops-cloud-infrastructure-activity-7025751753895673856-Z9aK?utm_source=share&utm_medium=member_desktop)
 
 # Cybersecurity (My New Domain)
-- [Understanding Cybersecurity concepts](https://www.linkedin.com/posts/srinivasanbaskaran_what-is-cyber-security-activity-7018989534071721984-9p4q?utm_source=share&utm_medium=member_desktop)
-- [Methods to threaten cyber-security](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7019720018615513088-_t7N?utm_source=share&utm_medium=member_desktop)
-- [Types of Malwares](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7019960877659422720-bKBF?utm_source=share&utm_medium=member_desktop)
-- [𝐂𝐲𝐛𝐞𝐫 𝐬𝐚𝐟𝐞𝐭𝐲 𝐭𝐢𝐩𝐬](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7020431476898889729-o-Uj?utm_source=share&utm_medium=member_desktop)
-- [Fundamental History](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7021552452256632832-UGp3/?utm_source=share&utm_medium=member_desktop)
-- [Roles, Assessment, Threads type](https://www.linkedin.com/posts/srinivasanbaskaran_cybersecurity-roles-assessment-security-activity-7021725373130313728-Zpb5?utm_source=share&utm_medium=member_desktop)
-- [Why Cybersecurity is in action?](https://www.linkedin.com/posts/srinivasanbaskaran_cybertechdave100daysofcyberchallenge-career-activity-7022549789359693825-Xgtu?utm_source=share&utm_medium=member_desktop)
+
 # .NET
 
 # SQL
@@ -105,30 +71,13 @@ Mail - cheenu_vasan@yahoo.com
 - [Success Journey](https://www.linkedin.com/feed/update/urn:li:activity:7026082415521533952)
 
 # My medium.com blogs Journey
-- [Configure Ansible in Ubuntu AWS EC2](https://medium.com/cloudnloud/installing-ansible-in-aws-ec2-instance-with-ubuntu-image-and-configuring-the-ansible-master-and-e3655711f785)
-- [Creating simple Ansible Playbook](https://medium.com/cloudnloud/creating-simple-ansible-playbook-in-ubuntu-aws-ec2-machine-23a63af4df78)
-- [Ansible Playbook, Roles and Handlers](https://medium.com/cloudnloud/deploying-simple-tasks-using-ansible-playbook-ansible-roles-and-handlers-6ba37597e2f7)
 
-- [Azure Services by Category (Full list)](https://medium.com/cloudnloud/azure-services-list-by-category-as-on-26-jan-2023-8809c0f65938)
 
 
 ## 🤝🏻 Let's Keep in Touch
 
 
-## 🐦 Latest Tweets
-
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/cheenu_vasan?ref_src=twsrc%5Etfw")
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cheenu_vasan&layout=wide)](https://github.com/bsrinivasancbe/bsrinivasancbe)
 
 
-## join our Discord Channel
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bsrinivasancbe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>

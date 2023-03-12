@@ -85,7 +85,7 @@ Mail - reeti4cyber@gmail.com
 - [Why is it important to write technical/non-technical articles?](https://www.linkedin.com/posts/reetiu_motivation-learning-lifeskills-activity-7021373895291133952-0p2T?utm_source=share&utm_medium=member_desktop)
 - [1% better every day](https://www.linkedin.com/posts/activity-7015657195216281600-Hzo2?utm_source=share&utm_medium=member_desktop)
 - [No one stop you but yourself](https://www.linkedin.com/posts/activity-7015095946321555456-BtAF?utm_source=share&utm_medium=member_desktop)
-
+- [Growth, obstacles](https://www.linkedin.com/posts/reetiu_growth-motivation-inspiration-activity-7040561008209264640-hEKf?utm_source=share&utm_medium=member_desktop)
 # My medium.com blogs Journey
 
 

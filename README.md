@@ -53,7 +53,8 @@ Mail - reeti4cyber@gmail.com
 - [Granular delegated admin privileges (GDAP](https://www.linkedin.com/posts/reetiu_microsoft-security-microsoftpartners-activity-7048563008310030336-3Uos?utm_source=share&utm_medium=member_desktop)
 - [Microsoft Defender External Attack Surface Management (Defender EASM)](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7044600495058931712-1s3A?utm_source=share&utm_medium=member_desktop)
 # Architecture Brainstorm
-- [𝐒𝐞𝐜𝐮𝐫𝐞 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐀𝘇𝘂𝗿𝗲 𝗔𝗽𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 & 𝗖𝗼𝘀𝘁𝗶𝗻𝗴 - 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠](https://www.linkedin.com/posts/ramstack_secure-access-to-azure-app-service-costing-activity-7039884062760591360-D1yL?utm_source=share&utm_medium=member_desktop)
+- [Secure Access to Azure Virtual Machines- 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠](https://www.youtube.com/watch?v=z-ENEXWL2j4&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=1&t=3s)
+- [Secure Access to Azure App Service & Costing - Solution Brainstorming](https://www.youtube.com/watch?v=0Als8CtSOiY&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=3)
  # Devops
  -[A brief introduction of all DevOps tools](https://www.linkedin.com/feed/update/urn:li:activity:7017350006319849472?utm_source=share&utm_medium=member_desktop)
  -[Cloud Native vs Cloud Agnostic](https://www.linkedin.com/posts/reetiu_hey-connections-lets-learn-and-grow-activity-7045871364783689728-qqPn?utm_source=share&utm_medium=member_desktop)
@@ -61,7 +62,7 @@ Mail - reeti4cyber@gmail.com
 # Terraform
 
 # GIT / GIT HUB
-- 
+
 
 # DataAnalytics 
 - [ETL Vs ELT](https://www.linkedin.com/posts/reetiu_imagecourtesy-elt-etl-activity-7025736556745302016-sAar?utm_source=share&utm_medium=member_desktop)
@@ -81,13 +82,6 @@ Mail - reeti4cyber@gmail.com
 - [Microsoft Sentinel](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7044228897822887936-U7dB?utm_source=share&utm_medium=member_desktop)
 - [10 immutable laws of security](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7043844035353985024-rAQ0?utm_source=share&utm_medium=member_desktop)
 - [Cloud Security Posture Management (CSPM) Cloud Workload Protection (CWP)](https://www.linkedin.com/posts/reetiu_hey-connections-lets-learn-and-grow-activity-7043497855478599680-5wNT?utm_source=share&utm_medium=member_desktop)
-- 
-# .NET
-
-# SQL
-
-
-# Others
 
 
 # Motivation
@@ -101,7 +95,7 @@ Mail - reeti4cyber@gmail.com
 - [Success](https://www.linkedin.com/posts/reetiu_opportunity-success-work-activity-7062553175081304064-6ypx?utm_source=share&utm_medium=member_desktop)
 - [Teamwork](https://www.linkedin.com/posts/reetiu_teamwork-loveanimals-hardwork-activity-7057944244145049600-uZ83?utm_source=share&utm_medium=member_desktop)
 - [Selfdoubt](https://www.linkedin.com/posts/reetiu_career-people-work-activity-7047895772608032768-CQM4?utm_source=share&utm_medium=member_desktop)
-- [Obstacles](https://www.linkedin.com/posts/reetiu_growth-motivation-inspiration-activity-7040561008209264640-hEKf?utm_source=share&utm_medium=member_desktop)
+
 
 # My medium.com blogs Journey
 

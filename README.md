@@ -13,8 +13,12 @@ Mail - reeti4cyber@gmail.com
 # My Linkedin Journey
 
 # AWS
-
-
+- [VPC Endpoint](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7072157333635698688-At0w?utm_source=share&utm_medium=member_desktop)
+- [AWS CloudTrail](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7071393529553420288-EiLD?utm_source=share&utm_medium=member_desktop)
+- [AWS NAT Gateway](https://www.linkedin.com/posts/reetiu_imagecourtsey-aws-vpc-activity-7069637409046474752-F0jb?utm_source=share&utm_medium=member_desktop)
+- [NACL vs SG](https://www.linkedin.com/posts/reetiu_azure-aws-vpc-activity-7069195969136902144-H5tM?utm_source=share&utm_medium=member_desktop)
+- [VPC/Vnet fundamentals](https://www.linkedin.com/posts/reetiu_azure-aws-vpc-activity-7068849092566683648-Izo-?utm_source=share&utm_medium=member_desktop)
+- [Azure AD and AWS](https://www.linkedin.com/posts/reetiu_microsoft-azure-azuresecurity-activity-7061279935105007616-cZ1n?utm_source=share&utm_medium=member_desktop)
 # Azure
 - [Service Endpoint](https://www.linkedin.com/posts/reetiu_azuresecurity-serviceendpoint-azure-activity-7025428641425625088-nQW4?utm_source=share&utm_medium=member_desktop)
 - [Password Hash Synchronization and Pass Through Authentication](https://www.linkedin.com/posts/reetiu_security-azuresecurity-azuread-activity-7026810366714142720-pPss?utm_source=share&utm_medium=member_desktop)
@@ -46,10 +50,13 @@ Mail - reeti4cyber@gmail.com
 - [Microsoft Entra Verified ID](https://www.linkedin.com/feed/update/urn:li:activity:7018016900458717184?utm_source=share&utm_medium=member_desktop)
 - [Azure Bastion and Azure Firewall](https://www.linkedin.com/posts/activity-7017457921261277185-Cz7v?utm_source=share&utm_medium=member_desktop)
 - [Azure Active Directory ](https://www.linkedin.com/feed/update/urn:li:activity:7015529946362105856?utm_source=share&utm_medium=member_desktop)
+- [Granular delegated admin privileges (GDAP](https://www.linkedin.com/posts/reetiu_microsoft-security-microsoftpartners-activity-7048563008310030336-3Uos?utm_source=share&utm_medium=member_desktop)
+- [Microsoft Defender External Attack Surface Management (Defender EASM)](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7044600495058931712-1s3A?utm_source=share&utm_medium=member_desktop)
 # Architecture Brainstorm
 - [𝐒𝐞𝐜𝐮𝐫𝐞 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐀𝘇𝘂𝗿𝗲 𝗔𝗽𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 & 𝗖𝗼𝘀𝘁𝗶𝗻𝗴 - 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠](https://www.linkedin.com/posts/ramstack_secure-access-to-azure-app-service-costing-activity-7039884062760591360-D1yL?utm_source=share&utm_medium=member_desktop)
  # Devops
  -[A brief introduction of all DevOps tools](https://www.linkedin.com/feed/update/urn:li:activity:7017350006319849472?utm_source=share&utm_medium=member_desktop)
+ -[Cloud Native vs Cloud Agnostic](https://www.linkedin.com/posts/reetiu_hey-connections-lets-learn-and-grow-activity-7045871364783689728-qqPn?utm_source=share&utm_medium=member_desktop)
 
 # Terraform
 
@@ -71,6 +78,10 @@ Mail - reeti4cyber@gmail.com
 
 # Cybersecurity 
 - [Mean Time To Detect (MTTD) and Mean Time To Respond (MTTR)](https://www.linkedin.com/posts/reetiu_security-incidentresponse-incidentinvestigation-activity-7024684178268950528-ID0E?utm_source=share&utm_medium=member_desktop)
+- [Microsoft Sentinel](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7044228897822887936-U7dB?utm_source=share&utm_medium=member_desktop)
+- [10 immutable laws of security](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7043844035353985024-rAQ0?utm_source=share&utm_medium=member_desktop)
+- [Cloud Security Posture Management (CSPM) Cloud Workload Protection (CWP)](https://www.linkedin.com/posts/reetiu_hey-connections-lets-learn-and-grow-activity-7043497855478599680-5wNT?utm_source=share&utm_medium=member_desktop)
+- 
 # .NET
 
 # SQL
@@ -86,6 +97,12 @@ Mail - reeti4cyber@gmail.com
 - [1% better every day](https://www.linkedin.com/posts/activity-7015657195216281600-Hzo2?utm_source=share&utm_medium=member_desktop)
 - [No one stop you but yourself](https://www.linkedin.com/posts/activity-7015095946321555456-BtAF?utm_source=share&utm_medium=member_desktop)
 - [Growth, obstacles](https://www.linkedin.com/posts/reetiu_growth-motivation-inspiration-activity-7040561008209264640-hEKf?utm_source=share&utm_medium=member_desktop)
+- [Life is beautiful](https://www.linkedin.com/posts/reetiu_gratitude-cloudnloud-motivation-activity-7070611555695939584-mU_I?utm_source=share&utm_medium=member_desktop)
+- [Success](https://www.linkedin.com/posts/reetiu_opportunity-success-work-activity-7062553175081304064-6ypx?utm_source=share&utm_medium=member_desktop)
+- [Teamwork](https://www.linkedin.com/posts/reetiu_teamwork-loveanimals-hardwork-activity-7057944244145049600-uZ83?utm_source=share&utm_medium=member_desktop)
+- [Selfdoubt](https://www.linkedin.com/posts/reetiu_career-people-work-activity-7047895772608032768-CQM4?utm_source=share&utm_medium=member_desktop)
+- [Obstacles](https://www.linkedin.com/posts/reetiu_growth-motivation-inspiration-activity-7040561008209264640-hEKf?utm_source=share&utm_medium=member_desktop)
+
 # My medium.com blogs Journey
 
 

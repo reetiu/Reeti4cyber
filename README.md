@@ -19,6 +19,10 @@ Mail - reeti4cyber@gmail.com
 - [NACL vs SG](https://www.linkedin.com/posts/reetiu_azure-aws-vpc-activity-7069195969136902144-H5tM?utm_source=share&utm_medium=member_desktop)
 - [VPC/Vnet fundamentals](https://www.linkedin.com/posts/reetiu_azure-aws-vpc-activity-7068849092566683648-Izo-?utm_source=share&utm_medium=member_desktop)
 - [Azure AD and AWS](https://www.linkedin.com/posts/reetiu_microsoft-azure-azuresecurity-activity-7061279935105007616-cZ1n?utm_source=share&utm_medium=member_desktop)
+- [AWS Cognito](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7077281819737407489-Ed1A?utm_source=share&utm_medium=member_desktop)
+- [AWS Cloud HSM](https://www.linkedin.com/posts/reetiu_linkedin-activity-7074278842156134401-EY-3?utm_source=share&utm_medium=member_desktop)
+-  [AWS Lambda](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7073658247907311617--e2S?utm_source=share&utm_medium=member_desktop)
+  
 # Azure
 - [Service Endpoint](https://www.linkedin.com/posts/reetiu_azuresecurity-serviceendpoint-azure-activity-7025428641425625088-nQW4?utm_source=share&utm_medium=member_desktop)
 - [Password Hash Synchronization and Pass Through Authentication](https://www.linkedin.com/posts/reetiu_security-azuresecurity-azuread-activity-7026810366714142720-pPss?utm_source=share&utm_medium=member_desktop)
@@ -52,30 +56,17 @@ Mail - reeti4cyber@gmail.com
 - [Azure Active Directory ](https://www.linkedin.com/feed/update/urn:li:activity:7015529946362105856?utm_source=share&utm_medium=member_desktop)
 - [Granular delegated admin privileges (GDAP](https://www.linkedin.com/posts/reetiu_microsoft-security-microsoftpartners-activity-7048563008310030336-3Uos?utm_source=share&utm_medium=member_desktop)
 - [Microsoft Defender External Attack Surface Management (Defender EASM)](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7044600495058931712-1s3A?utm_source=share&utm_medium=member_desktop)
+  
 # Architecture Brainstorm
 - [Secure Access to Azure Virtual Machines- 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠](https://www.youtube.com/watch?v=z-ENEXWL2j4&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=1&t=3s)
 - [Secure Access to Azure App Service & Costing - Solution Brainstorming](https://www.youtube.com/watch?v=0Als8CtSOiY&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=3)
+  
  # Devops
  -[A brief introduction of all DevOps tools](https://www.linkedin.com/feed/update/urn:li:activity:7017350006319849472?utm_source=share&utm_medium=member_desktop)
  -[Cloud Native vs Cloud Agnostic](https://www.linkedin.com/posts/reetiu_hey-connections-lets-learn-and-grow-activity-7045871364783689728-qqPn?utm_source=share&utm_medium=member_desktop)
 
-# Terraform
-
-# GIT / GIT HUB
-
-
 # DataAnalytics 
 - [ETL Vs ELT](https://www.linkedin.com/posts/reetiu_imagecourtesy-elt-etl-activity-7025736556745302016-sAar?utm_source=share&utm_medium=member_desktop)
-
-# Linux Distribution
-
-# Docker
-
-# Ansible
-
-# Jenkins
-
-# Kubernetes
 
 # Cybersecurity 
 - [Mean Time To Detect (MTTD) and Mean Time To Respond (MTTR)](https://www.linkedin.com/posts/reetiu_security-incidentresponse-incidentinvestigation-activity-7024684178268950528-ID0E?utm_source=share&utm_medium=member_desktop)
@@ -85,19 +76,23 @@ Mail - reeti4cyber@gmail.com
 
 
 # Motivation
-
 - [Success Journey](https://www.linkedin.com/feed/update/urn:li:activity:7026082415521533952)
 - [Why is it important to write technical/non-technical articles?](https://www.linkedin.com/posts/reetiu_motivation-learning-lifeskills-activity-7021373895291133952-0p2T?utm_source=share&utm_medium=member_desktop)
 - [1% better every day](https://www.linkedin.com/posts/activity-7015657195216281600-Hzo2?utm_source=share&utm_medium=member_desktop)
-- [No one stop you but yourself](https://www.linkedin.com/posts/activity-7015095946321555456-BtAF?utm_source=share&utm_medium=member_desktop)
+- [No one stops you but yourself](https://www.linkedin.com/posts/activity-7015095946321555456-BtAF?utm_source=share&utm_medium=member_desktop)
 - [Growth, obstacles](https://www.linkedin.com/posts/reetiu_growth-motivation-inspiration-activity-7040561008209264640-hEKf?utm_source=share&utm_medium=member_desktop)
-- [Life is beautiful](https://www.linkedin.com/posts/reetiu_gratitude-cloudnloud-motivation-activity-7070611555695939584-mU_I?utm_source=share&utm_medium=member_desktop)
+- [Life is Beautiful](https://www.linkedin.com/posts/reetiu_gratitude-cloudnloud-motivation-activity-7070611555695939584-mU_I?utm_source=share&utm_medium=member_desktop)
 - [Success](https://www.linkedin.com/posts/reetiu_opportunity-success-work-activity-7062553175081304064-6ypx?utm_source=share&utm_medium=member_desktop)
 - [Teamwork](https://www.linkedin.com/posts/reetiu_teamwork-loveanimals-hardwork-activity-7057944244145049600-uZ83?utm_source=share&utm_medium=member_desktop)
 - [Selfdoubt](https://www.linkedin.com/posts/reetiu_career-people-work-activity-7047895772608032768-CQM4?utm_source=share&utm_medium=member_desktop)
+- [Help! Before It is too late](https://www.linkedin.com/posts/reetiu_leadership-importance-coach-activity-7072919742101028864-z9w2?utm_source=share&utm_medium=member_desktop)
 
 
 # My medium.com blogs Journey
+- [Amazon Macie](https://www.linkedin.com/posts/reetiu_aws-macie-activity-7075463985952665600-YUOT?utm_source=share&utm_medium=member_desktop)
+- [Import Key Material for AW KMS keys](https://www.linkedin.com/posts/reetiu_how-to-import-key-material-for-kms-keys-activity-7077546047840944128-LdXg?utm_source=share&utm_medium=member_desktop)
+- [AWS Managed Microsoft AD](https://www.linkedin.com/posts/reetiu_aws-managed-microsoft-ad-activity-7081235536161492992-xCRd?utm_source=share&utm_medium=member_desktop)
+
 
 
 

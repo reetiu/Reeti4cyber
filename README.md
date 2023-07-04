@@ -22,6 +22,12 @@ Mail - reeti4cyber@gmail.com
 - [AWS Cognito](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7077281819737407489-Ed1A?utm_source=share&utm_medium=member_desktop)
 - [AWS Cloud HSM](https://www.linkedin.com/posts/reetiu_linkedin-activity-7074278842156134401-EY-3?utm_source=share&utm_medium=member_desktop)
 -  [AWS Lambda](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7073658247907311617--e2S?utm_source=share&utm_medium=member_desktop)
+
+  # My medium.com blogs Journey
+- [Amazon Macie](https://www.linkedin.com/posts/reetiu_aws-macie-activity-7075463985952665600-YUOT?utm_source=share&utm_medium=member_desktop)
+- [Import Key Material for AW KMS keys](https://www.linkedin.com/posts/reetiu_how-to-import-key-material-for-kms-keys-activity-7077546047840944128-LdXg?utm_source=share&utm_medium=member_desktop)
+- [AWS Managed Microsoft AD](https://www.linkedin.com/posts/reetiu_aws-managed-microsoft-ad-activity-7081235536161492992-xCRd?utm_source=share&utm_medium=member_desktop)
+- [Integrating AWS IAM center with Azure AD SSO](https://www.linkedin.com/posts/reetiu_integrating-aws-iam-identity-center-with-activity-7081904756985659392-hhzW?utm_source=share&utm_medium=member_desktop)
   
 # Azure
 - [Service Endpoint](https://www.linkedin.com/posts/reetiu_azuresecurity-serviceendpoint-azure-activity-7025428641425625088-nQW4?utm_source=share&utm_medium=member_desktop)
@@ -88,10 +94,7 @@ Mail - reeti4cyber@gmail.com
 - [Help! Before It is too late](https://www.linkedin.com/posts/reetiu_leadership-importance-coach-activity-7072919742101028864-z9w2?utm_source=share&utm_medium=member_desktop)
 
 
-# My medium.com blogs Journey
-- [Amazon Macie](https://www.linkedin.com/posts/reetiu_aws-macie-activity-7075463985952665600-YUOT?utm_source=share&utm_medium=member_desktop)
-- [Import Key Material for AW KMS keys](https://www.linkedin.com/posts/reetiu_how-to-import-key-material-for-kms-keys-activity-7077546047840944128-LdXg?utm_source=share&utm_medium=member_desktop)
-- [AWS Managed Microsoft AD](https://www.linkedin.com/posts/reetiu_aws-managed-microsoft-ad-activity-7081235536161492992-xCRd?utm_source=share&utm_medium=member_desktop)
+
 
 
 

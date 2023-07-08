@@ -1,8 +1,20 @@
 I am **[Reeti Upmon](https://www.linkedin.com/in/reetiu/)**. 
 
-I am an engineering graduate with over 15 years of collective work experience in the IT sector,  IT Training and Customer service. 
+I am an engineering graduate with over 15 years of collective work experience in the IT sector,  IT Training, and Customer service. 
 
+Due to personal circumstances, took a career break and transitioned into different industries.  
 
+I have always been passionate about technology. I transitioned to the IT industry due to my passion for the field, specifically Cloud computing, and restarted my career in the Tech space recently. 
+
+The AWS She Builds program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the Solution Architect Associate certification. My enthusiasm for <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
+
+I possess a strong command of both AWS and Azure. 
+
+In addition to my technical skills and experience, I am highly organized and possess strong problem-solving abilities. I excel in communication, both written and verbal, and I am comfortable working both independently and as part of a team. 
+
+I have got a keen eye for detail, and a knack for solving difficult problems.
+
+I have a passion for continual learning. I am hardworking, dependable, confident, and attentive.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/reetiu/)** 
 

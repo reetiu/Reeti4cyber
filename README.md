@@ -59,6 +59,7 @@ I regularly post content on [LinkedIn Reeti](https://www.linkedin.com/in/reetiu/
 -  [AWS Lambda](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7073658247907311617--e2S?utm_source=share&utm_medium=member_desktop)
 
   # My medium.com blogs Journey
+  [Medium Reeti](https://medium.com/@reeti03)
 - [Amazon Macie](https://www.linkedin.com/posts/reetiu_aws-macie-activity-7075463985952665600-YUOT?utm_source=share&utm_medium=member_desktop)
 - [Import Key Material for AW KMS keys](https://www.linkedin.com/posts/reetiu_how-to-import-key-material-for-kms-keys-activity-7077546047840944128-LdXg?utm_source=share&utm_medium=member_desktop)
 - [AWS Managed Microsoft AD](https://www.linkedin.com/posts/reetiu_aws-managed-microsoft-ad-activity-7081235536161492992-xCRd?utm_source=share&utm_medium=member_desktop)

@@ -6,7 +6,10 @@ Due to personal circumstances, took a career break and transitioned into differe
 
 I have always been passionate about technology. I transitioned to the IT industry due to my passion for the field, specifically Cloud computing, and restarted my career in the Tech space recently. 
 
-The AWS She Builds program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the Solution Architect Associate certification. My enthusiasm for <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
+The <b> AWS She Builds </b> program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the Solution Architect Associate certification. My enthusiasm for <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
+
+As part of my commitment to giving back to the community, I actively volunteer at <b>CloudnLoud Community</b>.
+My goal is to empower and guide aspiring individuals to become future leaders in the field of <b>AWS Cloud Security</b>. I am dedicated to nurturing their skills and fostering a supportive environment for their growth within the community.
 
 I possess a strong command of both AWS and Azure. 
 
@@ -14,16 +17,36 @@ In addition to my technical skills and experience, I am highly organized and pos
 
 I have got a keen eye for detail, and a knack for solving difficult problems.
 
-I have a passion for continual learning. I am hardworking, dependable, confident, and attentive.
+I have a deep passion for continual learning. I am hardworking, dependable, confident, and attentive. I am highly motivated to share my knowledge with peers and the community, while also remaining open to learning from others. Together, we can create a dynamic environment of knowledge exchange and growth.
 
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/reetiu/)** 
 
-
-
 Mail - reeti4cyber@gmail.com
 
-# My Linkedin Journey
+# Technical Skils
+- [AWS]
+- [Linux]
+- [Python]
+- [Azure]
+- [Microsoft Active Directory]
+- [SQL]
+- [Bash]
+- [Powershell]
+- [KQL]
 
+# Certifications 
+- [AWS Certified Cloud Practitioner]
+- [AWS Solution Architect Associate]
+- [RedHat Certified System Administrator]
+- [Microsoft Certified: Azure Fundamentals (AZ-900)]
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)]
+- [Microsoft 365 Certified: Fundamentals (MS-900)]
+- [Microsoft Azure Security Technologies (AZ-500)]
+- [Microsoft Certified: Azure Administrator Associate (AZ-104)]
+ 
+
+# My Linkedin Journey
+I regularly post content on (https://www.linkedin.com/in/reetiu/)
 # AWS
 - [VPC Endpoint](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7072157333635698688-At0w?utm_source=share&utm_medium=member_desktop)
 - [AWS CloudTrail](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7071393529553420288-EiLD?utm_source=share&utm_medium=member_desktop)

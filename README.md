@@ -24,29 +24,29 @@ I have a deep passion for continual learning. I am hardworking, dependable, conf
 Mail - reeti4cyber@gmail.com
 
 # Technical Skils
-- [AWS]
-- [Linux]
-- [Python]
-- [Azure]
-- [Microsoft Active Directory]
-- [SQL]
-- [Bash]
-- [Powershell]
-- [KQL]
+- AWS
+- Linux
+- Python
+- Azure
+- Microsoft Active Directory
+- SQL
+- Bash
+- Powershell
+- KQL
 
 # Certifications 
-- [AWS Certified Cloud Practitioner]
-- [AWS Solution Architect Associate]
-- [RedHat Certified System Administrator]
-- [Microsoft Certified: Azure Fundamentals (AZ-900)]
-- [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)]
-- [Microsoft 365 Certified: Fundamentals (MS-900)]
-- [Microsoft Azure Security Technologies (AZ-500)]
-- [Microsoft Certified: Azure Administrator Associate (AZ-104)]
+- AWS Certified Cloud Practitioner
+- AWS Solution Architect Associate
+- RedHat Certified System Administrator
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft 365 Certified: Fundamentals (MS-900)
+- Microsoft Azure Security Technologies (AZ-500)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
  
 
 # My Linkedin Journey
-I regularly post content on (https://www.linkedin.com/in/reetiu/)
+I regularly post content on [LinkedIn Reeti](https://www.linkedin.com/in/reetiu/)
 # AWS
 - [VPC Endpoint](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7072157333635698688-At0w?utm_source=share&utm_medium=member_desktop)
 - [AWS CloudTrail](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7071393529553420288-EiLD?utm_source=share&utm_medium=member_desktop)

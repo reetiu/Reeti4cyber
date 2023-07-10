@@ -6,7 +6,9 @@ Due to personal circumstances, took a career break and transitioned into differe
 
 I have always been passionate about technology. I transitioned to the IT industry due to my passion for the field, specifically Cloud computing, and restarted my career in the Tech space recently. 
 
-The <b> AWS She Builds </b> program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the Solution Architect Associate certification. My enthusiasm for <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
+Currently, I am working as an  🔭 <b>Associate Cloud Engineer with CyberCX, Australia</b>
+
+The 👩‍💻 <b> AWS She Builds </b> program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the 🎯<b>Solution Architect Associate </b> certification. My enthusiasm for 👯 <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
 
 As part of my commitment to giving back to the community, I actively volunteer at <b>CloudnLoud Community</b>.
 My goal is to empower and guide aspiring individuals to become future leaders in the field of <b>AWS Cloud Security</b>. I am dedicated to nurturing their skills and fostering a supportive environment for their growth within the community.
@@ -58,7 +60,7 @@ Mail - reeti4cyber@gmail.com
  
 
 # My Linkedin Journey
-I regularly post content on [LinkedIn Reeti](https://www.linkedin.com/in/reetiu/)
+📝I regularly post content on [LinkedIn Reeti](https://www.linkedin.com/in/reetiu/)
 # AWS
 - [VPC Endpoint](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7072157333635698688-At0w?utm_source=share&utm_medium=member_desktop)
 - [AWS CloudTrail](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7071393529553420288-EiLD?utm_source=share&utm_medium=member_desktop)
@@ -70,8 +72,8 @@ I regularly post content on [LinkedIn Reeti](https://www.linkedin.com/in/reetiu/
 - [AWS Cloud HSM](https://www.linkedin.com/posts/reetiu_linkedin-activity-7074278842156134401-EY-3?utm_source=share&utm_medium=member_desktop)
 -  [AWS Lambda](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7073658247907311617--e2S?utm_source=share&utm_medium=member_desktop)
 
-  # My medium.com blogs Journey
-  [Medium Reeti](https://medium.com/@reeti03)
+  # My blogs Journey
+ 📝 [Medium Reeti](https://medium.com/@reeti03)
 - [Amazon Macie](https://www.linkedin.com/posts/reetiu_aws-macie-activity-7075463985952665600-YUOT?utm_source=share&utm_medium=member_desktop)
 - [Import Key Material for AW KMS keys](https://www.linkedin.com/posts/reetiu_how-to-import-key-material-for-kms-keys-activity-7077546047840944128-LdXg?utm_source=share&utm_medium=member_desktop)
 - [AWS Managed Microsoft AD](https://www.linkedin.com/posts/reetiu_aws-managed-microsoft-ad-activity-7081235536161492992-xCRd?utm_source=share&utm_medium=member_desktop)
@@ -142,6 +144,13 @@ I regularly post content on [LinkedIn Reeti](https://www.linkedin.com/in/reetiu/
 - [Help! Before It is too late](https://www.linkedin.com/posts/reetiu_leadership-importance-coach-activity-7072919742101028864-z9w2?utm_source=share&utm_medium=member_desktop)
 
 
+## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
+
+##  Multi Cloud Security Engineer@CloudnLoud Tech Community
+
+<P>
+I am part of CloudnLoud Tech Community as Multi-Cloud Security Engineer where I work on AWS, and Azure POCs.I have been contributing to the communities through AWS, Azure, Cyber Security, Motivational Posts, and Blogs. I help my fellow Community members by clarifying doubts with respect to AWS, Azure, and CyberSecurity concepts. 
+The purpose of this community is to share Technical knowledge and to save millions of Cancer children.
 
 
 

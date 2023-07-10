@@ -19,7 +19,19 @@ I have got a keen eye for detail, and a knack for solving difficult problems.
 
 I have a deep passion for continual learning. I am hardworking, dependable, confident, and attentive. I am highly motivated to share my knowledge with peers and the community, while also remaining open to learning from others. Together, we can create a dynamic environment of knowledge exchange and growth.
 
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/reetiu/)** 
+## Connect with Me & Community 🤝🏻! 
+<a href="https://github.com/reeti4cyber/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/reetiu/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+<a href="https://www.youtube.com/user/cloudnloud" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+
+ Reach me **[LinkedIn](https://www.linkedin.com/in/reetiu/)** 
 
 Mail - reeti4cyber@gmail.com
 

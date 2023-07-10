@@ -27,6 +27,8 @@ My goal is to empower and guide aspiring individuals to become future leaders in
 
 I possess a strong command of both AWS and Azure. 
 
+I have worked as a trainer in the past and I love to teach and train others. I firmly believe the quickest way to enhance our knowledge is by sharing our knowledfe with others.
+
 In addition to my technical skills and experience, I am highly organized and possess strong problem-solving abilities. I excel in communication, both written and verbal, and I am comfortable working both independently and as part of a team. 
 
 I have got a keen eye for detail, and a knack for solving difficult problems.
@@ -80,7 +82,12 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [Azure AD and AWS](https://www.linkedin.com/posts/reetiu_microsoft-azure-azuresecurity-activity-7061279935105007616-cZ1n?utm_source=share&utm_medium=member_desktop)
 - [AWS Cognito](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7077281819737407489-Ed1A?utm_source=share&utm_medium=member_desktop)
 - [AWS Cloud HSM](https://www.linkedin.com/posts/reetiu_linkedin-activity-7074278842156134401-EY-3?utm_source=share&utm_medium=member_desktop)
--  [AWS Lambda](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7073658247907311617--e2S?utm_source=share&utm_medium=member_desktop)
+- [AWS Lambda](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7073658247907311617--e2S?utm_source=share&utm_medium=member_desktop)
+- [AWS- Sharing BeSA Program](https://www.linkedin.com/posts/reetiu_besaprogram-awscommunity-activity-7083577684240338944-I9Sb?utm_source=share&utm_medium=member_desktop)
+- [AWSome Day- Repost](https://www.linkedin.com/feed/update/urn:li:activity:7067800543208865792?utm_source=share&utm_medium=member_desktop)
+- [AWS Skill Builder- Repost](https://www.linkedin.com/feed/update/urn:li:activity:7070067023619239936?utm_source=share&utm_medium=member_desktop)
+- [AWS Shield-Repost](https://www.linkedin.com/feed/update/urn:li:activity:7069373105151868928?utm_source=share&utm_medium=member_desktop)
+  
 
   # My blogs Journey
  📝 [Medium Reeti](https://medium.com/@reeti03)
@@ -122,6 +129,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [Azure Active Directory ](https://www.linkedin.com/feed/update/urn:li:activity:7015529946362105856?utm_source=share&utm_medium=member_desktop)
 - [Granular delegated admin privileges (GDAP](https://www.linkedin.com/posts/reetiu_microsoft-security-microsoftpartners-activity-7048563008310030336-3Uos?utm_source=share&utm_medium=member_desktop)
 - [Microsoft Defender External Attack Surface Management (Defender EASM)](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7044600495058931712-1s3A?utm_source=share&utm_medium=member_desktop)
+- [Achievement Identity Platform WorkShop Champ](https://www.linkedin.com/posts/reetiu_microsoft-identity-platform-workshop-champ-activity-7067274782664265728-Fq8c?utm_source=share&utm_medium=member_desktop)
   
 # Architecture Brainstorm
 - [Secure Access to Azure Virtual Machines- 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠](https://www.youtube.com/watch?v=z-ENEXWL2j4&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=1&t=3s)
@@ -139,6 +147,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [Microsoft Sentinel](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7044228897822887936-U7dB?utm_source=share&utm_medium=member_desktop)
 - [10 immutable laws of security](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7043844035353985024-rAQ0?utm_source=share&utm_medium=member_desktop)
 - [Cloud Security Posture Management (CSPM) Cloud Workload Protection (CWP)](https://www.linkedin.com/posts/reetiu_hey-connections-lets-learn-and-grow-activity-7043497855478599680-5wNT?utm_source=share&utm_medium=member_desktop)
+- [Career in Cyber Security-Share](https://www.linkedin.com/posts/reetiu_cyber-security-generation-australia-activity-7075443261925961728-pY7b?utm_source=share&utm_medium=member_desktop)
 
 
 # Motivation
@@ -152,19 +161,21 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [Teamwork](https://www.linkedin.com/posts/reetiu_teamwork-loveanimals-hardwork-activity-7057944244145049600-uZ83?utm_source=share&utm_medium=member_desktop)
 - [Selfdoubt](https://www.linkedin.com/posts/reetiu_career-people-work-activity-7047895772608032768-CQM4?utm_source=share&utm_medium=member_desktop)
 - [Help! Before It is too late](https://www.linkedin.com/posts/reetiu_leadership-importance-coach-activity-7072919742101028864-z9w2?utm_source=share&utm_medium=member_desktop)
+- [Career Transition Tips- Share](https://www.linkedin.com/posts/reetiu_jobsearch-jobsearchtips-tech-activity-7073660698525908992-IkgI?utm_source=share&utm_medium=member_desktop)
 
 
-## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
+# Active member of the Australian Women in Security Network.
+<P> I am an active member of AWSN and attend their events both Virtual and in-person </P>
+- [AWSN meet up](https://www.linkedin.com/posts/reetiu_i-had-an-opportunity-to-attend-an-amazing-activity-7069941839981670401-ZKYP?utm_source=share&utm_medium=member_desktop)
+- [Meetig Vasu Jakkal](https://www.linkedin.com/posts/reetiu_womeninsecurity-inspired-mentoringmatters-activity-7031552526583808000-TG5l?utm_source=share&utm_medium=member_desktop)
+
+## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
 ##  Multi Cloud Security Engineer@CloudnLoud Tech Community
 
 <P>
 I am part of CloudnLoud Tech Community as Multi-Cloud Security Engineer where I work on AWS, and Azure POCs.I have been contributing to the communities through AWS, Azure, Cyber Security, Motivational Posts, and Blogs. I help my fellow Community members by clarifying doubts with respect to AWS, Azure, and CyberSecurity concepts. 
 The purpose of this community is to share Technical knowledge and to save millions of Cancer children.
-
-
-
-
 
 ## 🤝🏻 Let's Keep in Touch
 

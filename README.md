@@ -89,7 +89,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [AWS Shield-Repost](https://www.linkedin.com/feed/update/urn:li:activity:7069373105151868928?utm_source=share&utm_medium=member_desktop)
   
 
-  # My blogs Journey
+ # My blogs Journey
  📝 [Medium Reeti](https://medium.com/@reeti03)
 - [Amazon Macie](https://www.linkedin.com/posts/reetiu_aws-macie-activity-7075463985952665600-YUOT?utm_source=share&utm_medium=member_desktop)
 - [Import Key Material for AW KMS keys](https://www.linkedin.com/posts/reetiu_how-to-import-key-material-for-kms-keys-activity-7077546047840944128-LdXg?utm_source=share&utm_medium=member_desktop)
@@ -165,7 +165,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 
 
 # Active member of the Australian Women in Security Network.
-<P> I am an active member of AWSN and attend their events both Virtual and in-person </P>
+ I am an active member of AWSN and attend their events both Virtual and in-person.
 - [AWSN meet up](https://www.linkedin.com/posts/reetiu_i-had-an-opportunity-to-attend-an-amazing-activity-7069941839981670401-ZKYP?utm_source=share&utm_medium=member_desktop)
 - [Meetig Vasu Jakkal](https://www.linkedin.com/posts/reetiu_womeninsecurity-inspired-mentoringmatters-activity-7031552526583808000-TG5l?utm_source=share&utm_medium=member_desktop)
 

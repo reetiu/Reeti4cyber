@@ -27,7 +27,7 @@ My goal is to empower and guide aspiring individuals to become future leaders in
 
 I possess a strong command of both AWS and Azure. 
 
-I have worked as a trainer in the past and I love to teach and train others. I firmly believe the quickest way to enhance our knowledge is by sharing our knowledfe with others.
+I have worked as a trainer in the past and I love to teach and train others. I firmly believe the quickest way to enhance our knowledge is by sharing our knowledge with others.
 
 In addition to my technical skills and experience, I am highly organized and possess strong problem-solving abilities. I excel in communication, both written and verbal, and I am comfortable working both independently and as part of a team. 
 
@@ -44,7 +44,7 @@ I have a deep passion for continual learning. I am hardworking, dependable, conf
        
 - ❓ Ask me about AWS, Azure, Azure Active Directory, CyberSecurity, Motivation. 
   
-- ⚡ Fun fact: I start my day with 🧘‍♀️. I do a lot of volunteer work for my Spiritual Masters.
+- ⚡ Fun fact: I start my day with 🧘‍♀️. I do a lot of volunteer work for my Spiritual Masters by creating You Tube videos and managing the You tube channel.
               I am passionate about Cricket 🏏 and do volunteer work for my son's cricket club.
 
 Reach me **Mail - reeti4cyber@gmail.com** 
@@ -134,6 +134,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 # Architecture Brainstorm
 - [Secure Access to Azure Virtual Machines- 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠](https://www.youtube.com/watch?v=z-ENEXWL2j4&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=1&t=3s)
 - [Secure Access to Azure App Service & Costing - Solution Brainstorming](https://www.youtube.com/watch?v=0Als8CtSOiY&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=3)
+- [Microsoft ]
   
  # Devops
  -[A brief introduction of all DevOps tools](https://www.linkedin.com/feed/update/urn:li:activity:7017350006319849472?utm_source=share&utm_medium=member_desktop)

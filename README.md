@@ -91,10 +91,11 @@ Reach me **Mail - reeti4cyber@gmail.com**
 
  # My blogs Journey
  📝 [Medium Reeti](https://medium.com/@reeti03)
-- [Amazon Macie](https://www.linkedin.com/posts/reetiu_aws-macie-activity-7075463985952665600-YUOT?utm_source=share&utm_medium=member_desktop)
-- [Import Key Material for AW KMS keys](https://www.linkedin.com/posts/reetiu_how-to-import-key-material-for-kms-keys-activity-7077546047840944128-LdXg?utm_source=share&utm_medium=member_desktop)
-- [AWS Managed Microsoft AD](https://www.linkedin.com/posts/reetiu_aws-managed-microsoft-ad-activity-7081235536161492992-xCRd?utm_source=share&utm_medium=member_desktop)
-- [Integrating AWS IAM center with Azure AD SSO](https://www.linkedin.com/posts/reetiu_integrating-aws-iam-identity-center-with-activity-7081904756985659392-hhzW?utm_source=share&utm_medium=member_desktop)
+- [Amazon Macie](https://medium.com/p/c59021ea20e9)
+- [Import Key Material for AWS KMS keys](https://medium.com/cloudnloud/how-to-import-key-material-for-kms-keys-5fe94234c4ed)
+- [AWS Managed Microsoft AD](https://medium.com/p/2ef0116f6282)
+- [Integrating AWS IAM center with Azure AD SSO](https://medium.com/p/15b9be30d2f4)
+- [Envelope Encryption](https://medium.com/p/19b70d6e19a5)
   
 # Azure
 - [Service Endpoint](https://www.linkedin.com/posts/reetiu_azuresecurity-serviceendpoint-azure-activity-7025428641425625088-nQW4?utm_source=share&utm_medium=member_desktop)

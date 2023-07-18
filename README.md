@@ -44,8 +44,8 @@ I have a deep passion for continual learning. I am hardworking, dependable, conf
        
 - ❓ Ask me about AWS, Azure, Azure Active Directory, CyberSecurity, Motivation. 
   
-- ⚡ Fun fact: I start my day with 🧘‍♀️. I do a lot of volunteer work for my Spiritual Masters by creating You Tube videos and managing the You tube channel.
-              I am passionate about Cricket 🏏 and do volunteer work for my son's cricket club.
+- ⚡ Fun fact: I start my day with 🧘‍♀️. I do a lot of volunteer work for my Spiritual Masters by creating You Tube videos and managing the Youtube channel.
+            I am passionate about Cricket 🏏 and do volunteer work for my son's cricket club.
 
 Reach me **Mail - reeti4cyber@gmail.com** 
 
@@ -87,7 +87,8 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [AWSome Day- Repost](https://www.linkedin.com/feed/update/urn:li:activity:7067800543208865792?utm_source=share&utm_medium=member_desktop)
 - [AWS Skill Builder- Repost](https://www.linkedin.com/feed/update/urn:li:activity:7070067023619239936?utm_source=share&utm_medium=member_desktop)
 - [AWS Shield-Repost](https://www.linkedin.com/feed/update/urn:li:activity:7069373105151868928?utm_source=share&utm_medium=member_desktop)
-  
+- [AWS Cloud Security Quest](https://www.linkedin.com/posts/reetiu_aws-cloud-quest-security-was-issued-by-amazon-activity-7087021175750479872-LsFN?utm_source=share&utm_medium=member_desktop)
+- [AWS Security Lake](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7086640851086430208-GUZE?utm_source=share&utm_medium=member_desktop)
 
  # My blogs Journey
  📝 [Medium Reeti](https://medium.com/@reeti03)

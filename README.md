@@ -89,6 +89,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [AWS Shield-Repost](https://www.linkedin.com/feed/update/urn:li:activity:7069373105151868928?utm_source=share&utm_medium=member_desktop)
 - [AWS Cloud Security Quest](https://www.linkedin.com/posts/reetiu_aws-cloud-quest-security-was-issued-by-amazon-activity-7087021175750479872-LsFN?utm_source=share&utm_medium=member_desktop)
 - [AWS Security Lake](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7086640851086430208-GUZE?utm_source=share&utm_medium=member_desktop)
+- [VPC lattice](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7088854037067943936-zPUp?utm_source=share&utm_medium=member_desktop)
 
  # My blogs Journey
  📝 [Medium Reeti](https://medium.com/@reeti03)

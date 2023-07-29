@@ -90,6 +90,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [AWS Cloud Security Quest](https://www.linkedin.com/posts/reetiu_aws-cloud-quest-security-was-issued-by-amazon-activity-7087021175750479872-LsFN?utm_source=share&utm_medium=member_desktop)
 - [AWS Security Lake](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7086640851086430208-GUZE?utm_source=share&utm_medium=member_desktop)
 - [VPC lattice](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7088854037067943936-zPUp?utm_source=share&utm_medium=member_desktop)
+- [AWS Builders Online](https://www.linkedin.com/posts/reetiu_aws-aws-awscloud-activity-7090508396499505152-N5ei?utm_source=share&utm_medium=member_desktop)
 
  # My blogs Journey
  📝 [Medium Reeti](https://medium.com/@reeti03)
@@ -152,7 +153,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [10 immutable laws of security](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7043844035353985024-rAQ0?utm_source=share&utm_medium=member_desktop)
 - [Cloud Security Posture Management (CSPM) Cloud Workload Protection (CWP)](https://www.linkedin.com/posts/reetiu_hey-connections-lets-learn-and-grow-activity-7043497855478599680-5wNT?utm_source=share&utm_medium=member_desktop)
 - [Career in Cyber Security-Share](https://www.linkedin.com/posts/reetiu_cyber-security-generation-australia-activity-7075443261925961728-pY7b?utm_source=share&utm_medium=member_desktop)
-
+- [CyberSecurity Right and Duty] (https://www.linkedin.com/posts/reetiu_security-cyberawareness-cyberattacks-activity-7090935159927033856-7VaC?utm_source=share&utm_medium=member_desktop)
 
 # Motivation
 - [Success Journey](https://www.linkedin.com/feed/update/urn:li:activity:7026082415521533952)

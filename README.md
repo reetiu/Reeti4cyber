@@ -153,7 +153,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [10 immutable laws of security](https://www.linkedin.com/posts/reetiu_contentcourtesymicrosoft-activity-7043844035353985024-rAQ0?utm_source=share&utm_medium=member_desktop)
 - [Cloud Security Posture Management (CSPM) Cloud Workload Protection (CWP)](https://www.linkedin.com/posts/reetiu_hey-connections-lets-learn-and-grow-activity-7043497855478599680-5wNT?utm_source=share&utm_medium=member_desktop)
 - [Career in Cyber Security-Share](https://www.linkedin.com/posts/reetiu_cyber-security-generation-australia-activity-7075443261925961728-pY7b?utm_source=share&utm_medium=member_desktop)
-- [CyberSecurity Right and Duty] (https://www.linkedin.com/posts/reetiu_security-cyberawareness-cyberattacks-activity-7090935159927033856-7VaC?utm_source=share&utm_medium=member_desktop)
+- [CyberSecurity Right and Duty](https://www.linkedin.com/posts/reetiu_security-cyberawareness-cyberattacks-activity-7090935159927033856-7VaC?utm_source=share&utm_medium=member_desktop)
 
 # Motivation
 - [Success Journey](https://www.linkedin.com/feed/update/urn:li:activity:7026082415521533952)

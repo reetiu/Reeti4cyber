@@ -99,6 +99,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [AWS Managed Microsoft AD](https://medium.com/p/2ef0116f6282)
 - [Integrating AWS IAM center with Azure AD SSO](https://medium.com/p/15b9be30d2f4)
 - [Envelope Encryption](https://medium.com/p/19b70d6e19a5)
+- [Serverless Microservices- Integrating Lambda, API Gateway, DynamoDB](https://medium.com/cloudnloud/microservices-d0e070d06c5c)
   
 # Azure
 - [Service Endpoint](https://www.linkedin.com/posts/reetiu_azuresecurity-serviceendpoint-azure-activity-7025428641425625088-nQW4?utm_source=share&utm_medium=member_desktop)

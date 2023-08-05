@@ -91,6 +91,8 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [AWS Security Lake](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7086640851086430208-GUZE?utm_source=share&utm_medium=member_desktop)
 - [VPC lattice](https://www.linkedin.com/posts/reetiu_imagecourtsey-security-aws-activity-7088854037067943936-zPUp?utm_source=share&utm_medium=member_desktop)
 - [AWS Builders Online](https://www.linkedin.com/posts/reetiu_aws-aws-awscloud-activity-7090508396499505152-N5ei?utm_source=share&utm_medium=member_desktop)
+- [VPC Flow Logs] (https://www.linkedin.com/posts/reetiu_analyzing-vpc-flow-logs-using-amazon-athena-activity-7093730565471809536-vsoR?utm_source=share&utm_medium=member_desktop)
+- [M7 EC2 instances](https://www.linkedin.com/posts/reetiu_new-seventh-generation-general-purpose-amazon-activity-7092630512644599808-Xkne?utm_source=share&utm_medium=member_desktop)
 
  # My blogs Journey
  📝 [Medium Reeti](https://medium.com/@reeti03)

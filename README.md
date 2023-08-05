@@ -14,7 +14,7 @@ I am **[Reeti Upmon](https://www.linkedin.com/in/reetiu/)**.
 
 I am an engineering graduate with over 15 years of collective work experience in the IT sector,  IT Training, and Customer service. 
 
-Due to personal circumstances, took a career break and transitioned into different industries.  
+Due to personal circumstances, transitioned into different industries.  
 
 I have always been passionate about technology. I transitioned to the IT industry due to my passion for the field, specifically Cloud computing, and restarted my career in the Tech space recently. 
 

@@ -49,6 +49,11 @@ I have a deep passion for continual learning. I am hardworking, dependable, conf
 
 Reach me **Mail - reeti4cyber@gmail.com** 
 
+# Cloud Native Skills
+- AWS
+- Red Hat Linux
+- Azure
+  
 # Technical Skils
 - AWS
 - Linux
@@ -170,7 +175,7 @@ Reach me **Mail - reeti4cyber@gmail.com**
 - [Selfdoubt](https://www.linkedin.com/posts/reetiu_career-people-work-activity-7047895772608032768-CQM4?utm_source=share&utm_medium=member_desktop)
 - [Help! Before It is too late](https://www.linkedin.com/posts/reetiu_leadership-importance-coach-activity-7072919742101028864-z9w2?utm_source=share&utm_medium=member_desktop)
 - [Career Transition Tips- Share](https://www.linkedin.com/posts/reetiu_jobsearch-jobsearchtips-tech-activity-7073660698525908992-IkgI?utm_source=share&utm_medium=member_desktop)
-
+- [Mindfulness](https://www.linkedin.com/posts/reetiu_motivation-mindfulness-mindsetmatters-activity-7095753869141422080-HUjp?utm_source=share&utm_medium=member_desktop)
 
 # Active member of the Australian Women in Security Network.
  I am an active member of AWSN and attend their events both Virtual and in-person.

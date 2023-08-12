@@ -146,7 +146,7 @@ Reach me **Mail - reeti03@gmail.com**
 # Architecture Brainstorm
 - [Secure Access to Azure Virtual Machines- 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠](https://www.youtube.com/watch?v=z-ENEXWL2j4&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=1&t=3s)
 - [Secure Access to Azure App Service & Costing - Solution Brainstorming](https://www.youtube.com/watch?v=0Als8CtSOiY&list=PLh_VNk4-EHTMhvQyp_m71A94pv234MiS8&index=3)
-- [Microsoft Active Directory on AWS]()
+- [Microsoft Active Directory on AWS]( https://www.youtube.com/watch?v=phhi6YVqjkw&t=218s)
   
  # Devops
  -[A brief introduction of all DevOps tools](https://www.linkedin.com/feed/update/urn:li:activity:7017350006319849472?utm_source=share&utm_medium=member_desktop)

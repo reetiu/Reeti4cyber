@@ -47,7 +47,7 @@ I have a deep passion for continual learning. I am hardworking, dependable, conf
 - ⚡ Fun fact: I start my day with 🧘‍♀️. I do a lot of volunteer work for my Spiritual Masters by creating You Tube videos and managing the Youtube channel.
             I am passionate about Cricket 🏏 and do volunteer work for my son's cricket club.
 
-Reach me **Mail - reeti4cyber@gmail.com** 
+Reach me **Mail - reeti03@gmail.com** 
 
 # Cloud Native Skills
 - AWS

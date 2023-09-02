@@ -20,6 +20,8 @@ I have always been passionate about technology. I transitioned to the IT industr
 
 Currently, I am working as an  🔭 <b>Associate Cloud Engineer with CyberCX, Australia</b>
 
+Recently, I have earned the title of 🎉 🎁 <b><i> AWS Community Builder (Security and Identity) </i></b> 🎁 🎉
+
 The 👩‍💻 <b> AWS She Builds </b> program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the 🎯<b>Solution Architect Associate </b> certification. My enthusiasm for 👯 <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
 
 As part of my commitment to giving back to the community, I actively volunteer at <b>CloudnLoud Community</b>.

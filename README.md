@@ -178,7 +178,7 @@ Reach me **Mail - reeti03@gmail.com**
 # Active member of the Australian Women in Security Network.
  I am an active member of AWSN and attend their events both Virtual and in-person.
 - [AWSN meet up](https://www.linkedin.com/posts/reetiu_i-had-an-opportunity-to-attend-an-amazing-activity-7069941839981670401-ZKYP?utm_source=share&utm_medium=member_desktop)
-- [Meetig Vasu Jakkal](https://www.linkedin.com/posts/reetiu_womeninsecurity-inspired-mentoringmatters-activity-7031552526583808000-TG5l?utm_source=share&utm_medium=member_desktop)
+- [Meeting Vasu Jakkal](https://www.linkedin.com/posts/reetiu_womeninsecurity-inspired-mentoringmatters-activity-7031552526583808000-TG5l?utm_source=share&utm_medium=member_desktop)
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 

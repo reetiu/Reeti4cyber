@@ -18,7 +18,7 @@ Due to personal circumstances, transitioned into different industries.
 
 I have always been passionate about technology. I transitioned to the IT industry due to my passion for the field, specifically Cloud computing, and restarted my career in the Tech space recently. 
 
-Currently, I am working as an  🔭 <b>Associate Cloud Engineer with CyberCX, Australia</b>
+Currently, I am working as an  🔭 <b>Security Engineer with OneDigital, Australia</b>
 
 Recently, I have earned the title of 🎉 🎁 <b><i> AWS Community Builder (Security and Identity) </i></b> 🎁 🎉
 

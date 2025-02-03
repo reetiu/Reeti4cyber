@@ -20,7 +20,7 @@ Currently, I am working as an  🔭 <b>Security Engineer with OneDigital, Austra
 
 The 👩‍💻 <b> AWS She Builds </b> program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the 🎯<b>Solution Architect Associate </b> certification. My enthusiasm for 👯 <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
 
-As part of my commitment to giving back to the community, I actively volunteer at <b>BeSA Melbourne </b> and <b>AISA Melbourne</b>.
+As part of my commitment to giving back to the community, I actively volunteer at <b>BSides Melbourne </b> and <b>AISA Melbourne</b>.
 My goal is to empower and guide aspiring individuals to become future leaders in the field of <b>AWS Cloud Security</b>. I am dedicated to nurturing their skills and fostering a supportive environment for their growth within the community.
 
 I possess a strong command of both AWS and Azure. 
@@ -182,11 +182,9 @@ Reach me **Mail - reeti03@gmail.com**
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
-##  Multi Cloud Security Engineer@CloudnLoud Tech Community
+##  
 
-<P>
-I am part of CloudnLoud Tech Community as Multi-Cloud Security Engineer where I work on AWS, and Azure POCs.I have been contributing to the communities through AWS, Azure, Cyber Security, Motivational Posts, and Blogs. I help my fellow Community members by clarifying doubts with respect to AWS, Azure, and CyberSecurity concepts. 
-The purpose of this community is to share Technical knowledge and to save millions of Cancer children.
+
 
 ## 🤝🏻 Let's Keep in Touch
 

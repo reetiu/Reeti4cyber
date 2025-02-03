@@ -24,7 +24,7 @@ Recently, I have earned the title of 🎉 🎁 <b><i> AWS Community Builder (Sec
 
 The 👩‍💻 <b> AWS She Builds </b> program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the 🎯<b>Solution Architect Associate </b> certification. My enthusiasm for 👯 <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
 
-As part of my commitment to giving back to the community, I actively volunteer at <b>CloudnLoud Community</b>.
+As part of my commitment to giving back to the community, I actively volunteer at <b>BeSA Melbourne </b> and <b>AISA Melbourne</b>.
 My goal is to empower and guide aspiring individuals to become future leaders in the field of <b>AWS Cloud Security</b>. I am dedicated to nurturing their skills and fostering a supportive environment for their growth within the community.
 
 I possess a strong command of both AWS and Azure. 
